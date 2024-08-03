@@ -1,4 +1,4 @@
-# Image-Processing
+# Image Processing with Edge Detection and Seam Carving
 
 ## Introduction:
 
